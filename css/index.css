@@ -1,0 +1,35 @@
+/** {
+	margin: 0px;
+	padding: 0px;	
+	/*
+		**Concluir esse reset e separar desse arquivo.
+	
+}*/
+
+body {
+	font-family: Times, serif;
+	padding: 100px;
+	padding-top: 50px;
+}
+
+#header, #content, #footer {
+	background-color: #bbeedf;
+	color: black;
+	text-align: center;
+}
+
+img {
+	float: left;
+}
+
+ul {
+	
+	display: inline;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	background-color: white;
+}
